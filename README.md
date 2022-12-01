@@ -12,6 +12,7 @@ Code, files, data, and results for individual subsystems can be found inside of 
 
 Artificial Intelligence:
  - Development took place in Jupyter Notebook
+ - Written all in Python
  - Included in the Artificial Intelligence folder is:
     - Pre-processed data used for training
     - Code for data processing and training
@@ -20,7 +21,8 @@ Artificial Intelligence:
  - Folder in repo: /Artificial Intelligence
 
 Game and App Functionality:
-  - Development took in Android Studios
+  - Development took in place Android Studios
+  - Written all in Java
   - Folder in repo: /GameFunctionality
   - The Game works as intended 
  
