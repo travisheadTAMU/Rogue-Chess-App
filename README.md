@@ -23,6 +23,7 @@ Artificial Intelligence:
 Game and App Functionality:
   - Development took in place Android Studios
   - Written all in Java
-  - Folder in repo: /GameFunctionality
   - The Game works as intended 
+  - Folder in repo: /GameFunctionality
+
  
