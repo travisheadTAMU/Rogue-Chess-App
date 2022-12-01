@@ -18,9 +18,9 @@ Artificial Intelligence:
  - Folder in repo: /Artificial Intelligence
 
 Game and App Functionality:
-  -Development took in Android Studios 
-  -Folder in repo: /GameFunctionality
-  -The Game works as intended 
+  - Development took in Android Studios
+  - Folder in repo: /GameFunctionality
+  - The Game works as intended 
   
 ![Screenshot (488)](https://user-images.githubusercontent.com/119454654/204985700-c52cd3f0-1d74-46df-adab-2cf6e1e140e2.png)
 
