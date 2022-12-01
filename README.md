@@ -19,4 +19,5 @@ Artificial Intelligence:
 
 Game and App Functionality:
 -Development took in Android Studios 
--Folder in repo: /RogueChessCapstone
+-Folder in repo: /GameFunctionality
+-The Game works as intended 
