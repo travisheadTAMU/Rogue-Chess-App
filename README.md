@@ -8,7 +8,7 @@ This repository was created by Travis Head and Jose Herrera for the Rogue Chess 
 
 ![Screenshot (488)](https://user-images.githubusercontent.com/119454654/204985700-c52cd3f0-1d74-46df-adab-2cf6e1e140e2.png)
 
-Code, files, data, and results for individual subsystems can be found inside of each subsystem folder. Full system testing, data, and results can be found in the /Validation folder.
+Code, files, data, and results for individual subsystems can be found inside of each subsystem folder. Full system testing, data, and results can be found in the /Full System Validations folder.
 
 Artificial Intelligence:
  - Development took place in Jupyter Notebook
