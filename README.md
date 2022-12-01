@@ -14,3 +14,5 @@ Artificial Intelligence:
  - Folder in repo: /Artificial Intelligence
 
 Game and App Functionality:
+-Development took in Android Studios 
+-Folder in repo: /RogueChessCapstone
