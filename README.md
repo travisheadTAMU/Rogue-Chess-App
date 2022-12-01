@@ -1,4 +1,4 @@
-# Rogue_Chess_App_Team-15_Fall_2022
+# Rogue_Chess_App_Team_15_Fall_2022
 Team 15 of ECEN 404 - Rogue Chess App - CapStone Design 2022
 
 Team Members (Subsystems):
